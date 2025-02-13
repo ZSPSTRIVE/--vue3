@@ -1,0 +1,93 @@
+<svg width="200.000000" height="200.000000" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_13_1675_dd" x="118.000000" y="133.761658" width="60.000000" height="63.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="-3"/>
+			<feGaussianBlur stdDeviation="0"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.91765 0 0 0 0 0.71373 0 0 0 0 0.07451 0 0 0 1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_13_1676_dd" x="22.000000" y="133.761658" width="60.000000" height="63.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="-3"/>
+			<feGaussianBlur stdDeviation="0"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.91765 0 0 0 0 0.71373 0 0 0 0 0.07451 0 0 0 1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g style="mix-blend-mode:normal">
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 14" cx="100.000000" cy="100.000000" r="100.000000" fill="#FFBF0B" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 14" cx="100.000000" cy="100.000000" r="100.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="矩形备份 21" d="M112.92 38.26C114.92 40.35 118.73 43.96 123.6 46.78C128.51 49.61 133.89 51.28 136.89 52.07C138.23 52.42 139.58 51.64 140 50.31C140.49 48.81 139.6 47.18 138.1 46.69C135.38 45.79 131.02 44.13 126.59 41.58C122.36 39.13 119.08 36.45 117.09 34.65C115.89 33.56 113.98 33.59 112.91 34.8C112.02 35.8 112 37.29 112.92 38.26Z" fill="#1A1B54" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="矩形备份 21" d="M123.6 46.78C128.51 49.61 133.89 51.28 136.89 52.07C138.23 52.42 139.58 51.64 140 50.31C140.49 48.81 139.6 47.18 138.1 46.69C135.38 45.79 131.02 44.13 126.59 41.58C122.36 39.13 119.08 36.45 117.09 34.65C115.89 33.56 113.98 33.59 112.91 34.8C112.02 35.8 112 37.29 112.92 38.26C114.92 40.35 118.73 43.96 123.6 46.78Z" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="矩形备份 53" d="M87.95 38.26C85.96 40.35 82.15 43.96 77.28 46.78C72.37 49.61 66.99 51.28 63.99 52.07C62.64 52.42 61.3 51.64 60.87 50.31C60.39 48.81 61.27 47.18 62.78 46.69C65.5 45.79 69.86 44.13 74.28 41.58C78.52 39.13 81.79 36.45 83.78 34.65C84.98 33.56 86.89 33.59 87.97 34.8C88.85 35.8 88.87 37.29 87.95 38.26Z" fill="#1A1B54" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="矩形备份 53" d="M77.28 46.78C72.37 49.61 66.99 51.28 63.99 52.07C62.64 52.42 61.3 51.64 60.87 50.31C60.39 48.81 61.27 47.18 62.78 46.69C65.5 45.79 69.86 44.13 74.28 41.58C78.52 39.13 81.79 36.45 83.78 34.65C84.98 33.56 86.89 33.59 87.97 34.8C88.85 35.8 88.87 37.29 87.95 38.26C85.96 40.35 82.15 43.96 77.28 46.78Z" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 15" cx="142.000000" cy="73.000000" r="28.000000" fill="#FFFCFD" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 15" cx="142.000000" cy="73.000000" r="28.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 27" cx="58.000000" cy="73.000000" r="28.000000" fill="#FFFCFD" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 27" cx="58.000000" cy="73.000000" r="28.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 28" cx="142.000000" cy="73.000000" r="22.000000" fill="#1A1B54" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 28" cx="142.000000" cy="73.000000" r="22.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 29" cx="58.000000" cy="73.000000" r="22.000000" fill="#1A1B54" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 29" cx="58.000000" cy="73.000000" r="22.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g filter="url(#filter_13_1675_dd)" style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 40" cx="148.000000" cy="166.761658" r="30.000000" fill="#FFD041" fill-opacity="1.000000"/>
+		</g>
+		<circle id="椭圆形备份 40" cx="148.000000" cy="166.761658" r="30.000000" stroke="#FFD141" stroke-opacity="0" stroke-width="1.000000"/>
+		<g filter="url(#filter_13_1676_dd)" style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 41" cx="52.000000" cy="166.761658" r="30.000000" fill="#FFD041" fill-opacity="1.000000"/>
+		</g>
+		<circle id="椭圆形备份 41" cx="52.000000" cy="166.761658" r="30.000000" stroke="#FFD141" stroke-opacity="0" stroke-width="1.000000"/>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 47" cx="64.500000" cy="65.500000" r="8.500000" fill="#FFFDFE" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 47" cx="64.500000" cy="65.500000" r="8.500000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 49" cx="149.500000" cy="65.500000" r="8.500000" fill="#FFFDFE" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 49" cx="149.500000" cy="65.500000" r="8.500000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 48" cx="50.000000" cy="83.000000" r="6.000000" fill="#FFFDFE" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 48" cx="50.000000" cy="83.000000" r="6.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<circle id="椭圆形备份 50" cx="135.000000" cy="83.000000" r="6.000000" fill="#FFFDFE" fill-opacity="1.000000"/>
+			<circle id="椭圆形备份 50" cx="135.000000" cy="83.000000" r="6.000000" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="路径 41备份 19" d="M83.29 131.89L81.03 130L119.97 129.89L117.84 131.95L117.83 131.98C119 133.19 120.87 133.22 122.08 132.06C123.29 130.89 123.32 129.02 122.16 127.81L122.13 127.81L119.98 129.88C119.6 129.49 111.53 121.39 100 121.39C88.47 121.39 81.35 129.58 81.01 129.98L78.72 128.07L78.69 128.07C77.62 129.36 77.78 131.22 79.07 132.3C80.36 133.37 82.22 133.21 83.3 131.92L83.29 131.89Z" fill="#D7D7D7" fill-opacity="0" fill-rule="evenodd"/>
+			<path id="路径 41备份 19" d="M81 130C81 130 88.18 121.39 100 121.39C111.81 121.39 120 129.89 120 129.89" stroke="#1A1B54" stroke-opacity="1.000000" stroke-width="6.000000" stroke-linecap="round"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="路径" d="M134 108C130.68 108 128 106.31 128 103C128 99.68 130.68 98 134 98C134 98 132.03 98 135.05 98C135.66 98 136.01 97.73 136.28 97.43C136.58 97.11 136.77 96.73 136.88 96.48C138.4 93.24 141.69 91 145.5 91C149.25 91 152.49 93.17 154.04 96.33C154.29 96.86 154.53 97.2 154.92 97.51C155.31 97.83 156.1 98 156.81 98C159.21 98 172 98 172 98C175.31 98 178 99.68 178 103C178 106.31 175.31 108 172 108L134 108Z" fill="#0A84FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="路径" d="M128 103C128 99.68 130.68 98 134 98C134 98 132.03 98 135.05 98C135.66 98 136.01 97.73 136.28 97.43C136.58 97.11 136.77 96.73 136.88 96.48C138.4 93.24 141.69 91 145.5 91C149.25 91 152.49 93.17 154.04 96.33C154.29 96.86 154.53 97.2 154.92 97.51C155.31 97.83 156.1 98 156.81 98C159.21 98 172 98 172 98C175.31 98 178 99.68 178 103C178 106.31 175.31 108 172 108L134 108C130.68 108 128 106.31 128 103Z" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="路径备份 2" d="M27 108C23.68 108 21 106.31 21 103C21 99.68 23.68 98 27 98C27 98 39.03 98 42.04 98C42.66 98 43.01 97.73 43.28 97.43C43.58 97.11 43.77 96.73 43.88 96.48C45.4 93.24 48.68 91 52.5 91C56.25 91 59.49 93.17 61.04 96.33C61.29 96.86 61.53 97.2 61.92 97.51C62.31 97.83 63.1 98 63.81 98C66.21 98 65 98 65 98C68.31 98 71 99.68 71 103C71 106.31 68.31 108 65 108L27 108Z" fill="#0A84FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="路径备份 2" d="M21 103C21 99.68 23.68 98 27 98C27 98 39.03 98 42.04 98C42.66 98 43.01 97.73 43.28 97.43C43.58 97.11 43.77 96.73 43.88 96.48C45.4 93.24 48.68 91 52.5 91C56.25 91 59.49 93.17 61.04 96.33C61.29 96.86 61.53 97.2 61.92 97.51C62.31 97.83 63.1 98 63.81 98C66.21 98 65 98 65 98C68.31 98 71 99.68 71 103C71 106.31 68.31 108 65 108L27 108C23.68 108 21 106.31 21 103Z" stroke="#969696" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+	</g>
+</svg>
